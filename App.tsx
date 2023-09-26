@@ -65,7 +65,7 @@ function App(): JSX.Element {
       <View style={styles.content}>
         <View style={styles.chart}>
           <LineChart
-            style={{height: '90%'}}
+            style={styles.chart}
             data={dataArray.current}
             svg={{stroke: '#E50914'}}
             yMin={100}
