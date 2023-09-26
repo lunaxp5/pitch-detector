@@ -50,7 +50,6 @@ function App(): JSX.Element {
   useEffect(() => {
     if (isRecording) {
       const interval = setInterval(() => {
-        console.log('........');
         console.log(data);
         setData({tone: '', frequency: 0});
       }, 50);
