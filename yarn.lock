@@ -15,6 +15,11 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@azesmway/react-native-unity@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@azesmway/react-native-unity/-/react-native-unity-0.4.0.tgz#563319182571e701b785111401d26662a77f90d7"
+  integrity sha512-I5blGLTO1gpSsFtgYiP6NmclxqDQe6rwAu86WiqPWsGhebQW2UHc1wuSG7O4I2rPPLFs8lG1Y1aHK3ev+e14Vg==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.22.13":
   version "7.22.13"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.22.13.tgz#e3c1c099402598483b7a8c46a721d1038803755e"
